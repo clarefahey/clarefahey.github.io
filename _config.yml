@@ -18,13 +18,13 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: fahey.clare@gmail.com
+  email_address: "fahey.clare@gmail.com"
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
-  github: clarefahey
+  github: "clarefahey"
   google_plus:
   instagram:
   linkedin:  # Full URL
@@ -39,7 +39,7 @@ theme_settings:
   youtube:
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: "UA-107698486-1"
   disqus_shortname:
   katex: true # Enable if using math markup
 
