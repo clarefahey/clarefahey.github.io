@@ -11,8 +11,8 @@ Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. K
 <form action="https://getsimpleform.com/messages?form_api_token=298b4b9ff61bd45c33ae9362d24d7cc4" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
   <input type='hidden' name='redirect_to' value='http://clarefahey.github.io/thank-you' />
-  <input type='text' name='name' placeholder='Your Full Name' />
-  <input type='email' name='email' placeholder='Your E-mail Address' />
+  <input type='text' name='name' placeholder='Clare Fahey' />
+  <input type='email' name='email' placeholder='fahey.clare@gmail.com' />
   <textarea name='message' placeholder='Write your message ...'></textarea>
   <input type='submit' value='Send Message' />
 </form>
